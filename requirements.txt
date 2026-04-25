@@ -5,5 +5,3 @@ langchain-community
 pypdf
 faiss-cpu
 python-dotenv
-
-API key of LLM
