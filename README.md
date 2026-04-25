@@ -1,4 +1,4 @@
-# 🏢 Enterprise Multi-Document Knowledge Brain
+# 🏢 DocBrain -- Enterprise Multi-Document Knowledge Brain
 
 An AI-powered **Retrieval-Augmented Generation (RAG)** application built with **Streamlit + LangChain + Google Gemini**, designed to analyze and answer questions from multiple PDF documents.
 
